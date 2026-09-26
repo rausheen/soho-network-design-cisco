@@ -188,13 +188,7 @@ An Access Point (AccessPoint-PT) was connected to an access port within each dep
 - Wireless network integration into a wired LAN
 - Configuration verification and troubleshooting
 
-## 📸 Screenshots
-
-*(Screenshot 2026-09-26 214248.png*
-
 ## 👤 Author
 Author Name: Rausheen Hasan
 Designed and implemented as part of an Enterprise Networking project focused on practical SOHO network design and Cisco device configuration.
-
----
 ⭐ Feel free to explore the `.pkt` file in this repo to see the full working topology in Cisco Packet Tracer.
