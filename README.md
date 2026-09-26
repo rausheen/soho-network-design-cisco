@@ -190,7 +190,7 @@ An Access Point (AccessPoint-PT) was connected to an access port within each dep
 
 ## 📸 Screenshots
 
-*(Add your Packet Tracer screenshots here — topology, router config output, switch config output, and successful ping tests)*
+*(Screenshot 2026-09-26 214248.png*
 
 ## 👤 Author
 Author Name: Rausheen Hasan
