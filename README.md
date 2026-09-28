@@ -189,6 +189,6 @@ An Access Point (AccessPoint-PT) was connected to an access port within each dep
 - Configuration verification and troubleshooting
 
 ## 👤 Author
-Author Name: Rausheen Hasan
+Author Name: **Rausheen Hasan**
 Designed and implemented as part of an Enterprise Networking project focused on practical SOHO network design and Cisco device configuration.
 ⭐ Feel free to explore the `.pkt` file in this repo to see the full working topology in Cisco Packet Tracer.
